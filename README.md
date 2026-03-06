@@ -70,8 +70,6 @@ Super-loop limitations
 Blocking vs Non-blocking execution
 
 
-Lab Evaluation 1 – Introduction to FreeRTOS
-
 6. Basic FreeRTOS Project
 Objective:
 Create a single RTOS task to blink an LED.
@@ -112,8 +110,6 @@ Queue creation
 Blocking calls
 Safe communication between tasks
 
-
-Lab Evaluation 2 – Advanced FreeRTOS Concepts
 
 10. Counting Semaphore – Shared Resource Modeling
 Objective:
